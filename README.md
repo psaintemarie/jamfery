@@ -1,2 +1,7 @@
 # jamfery
-Some JAMF related things
+
+Here you'll find some *JAMF* related things.
+
+* Scripts
+* Extension attributes
+* More
